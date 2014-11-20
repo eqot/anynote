@@ -89,3 +89,7 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
+
+
+# Use Polymer
+gem 'polymer-rails'
